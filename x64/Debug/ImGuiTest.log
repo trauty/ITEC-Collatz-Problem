@@ -1,0 +1,7 @@
+﻿  ImGuiTest.cpp
+C:\Users\traut\Desktop\VS Projects\ITEC-Collatz-Problem\ITEC-Collatz-Problem\ImGuiTest.cpp(29,29): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\traut\Desktop\VS Projects\ITEC-Collatz-Problem\ITEC-Collatz-Problem\ImGuiTest.cpp(33,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\traut\Desktop\VS Projects\ITEC-Collatz-Problem\ITEC-Collatz-Problem\ImGuiTest.cpp(37,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\traut\Desktop\VS Projects\ITEC-Collatz-Problem\ITEC-Collatz-Problem\ImGuiTest.cpp(41,29): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  ImGuiTest.vcxproj -> C:\Users\traut\Desktop\VS Projects\ITEC-Collatz-Problem\ITEC-Collatz-Problem\x64\Debug\ImGuiTest.exe
